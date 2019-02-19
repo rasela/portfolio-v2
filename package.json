@@ -16,7 +16,7 @@
     "develop": "gatsby develop",
     "format": "prettier --write 'src/**/*.js'",
     "start": "gatsby develop",
-    "deploy": "firebase deploy --token=$FIREBASE_TOKEN"
+    "deploy": "firebase deploy --token=$FIREBASE_TOKEN_RASE"
   },
   "husky": {
     "hooks": {
