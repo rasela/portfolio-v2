@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'brittany-chiang-v4',
-        short_name: 'v4',
+        name: 'rasela-v2',
+        short_name: 'rasela',
         start_url: '/',
         background_color: config.darkNavyColor,
         theme_color: config.navyColor,
