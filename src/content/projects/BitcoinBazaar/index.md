@@ -12,4 +12,4 @@ tech:
 show: 'true'
 ---
 
-Bitcoin Bazaar is a way for you to find local crypto-currency enthusiasts to buy and sell your bitcoins. You can place ads and answer ads in your neighborhood, or find buyers and sellers online to pay for btc via paypal, etc. Our fully functional app lets you transact btc locally and online without having to share financial information.
+Bitcoin Bazaar is a way for you to find local crypto-currency enthusiasts to buy and sell your bitcoins. You can place ads and answer ads in your neighborhood, or find buyers and sellers online to pay for BTC via Paypal, etc. Our fully functional app lets you transact BTC locally and internationally, online without having to share financial information.

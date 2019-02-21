@@ -7,8 +7,7 @@ range: 'Mar 2014 - Oct 2017'
 url: 'https://www.auxenta.com/'
 ---
 
-- Held the responsibility for architectural design and development of the system
-- Designed deployment strategies for `Java, NodeJS backends` and `React, Angular frontends`
-- Responsible for task management, issue management and delivery management of the projects
-- Managed risks, assumptions, issues and technical dependencies
-- Developed and maintained code for in-house and client projects primarily using Java, Spring, Hibernate
+- Held responsibility for architectural design and development of in-house and client projects
+- Designed deployment strategies for `Java, NodeJS` backends and `React, Angular` frontends
+- Responsible for task, issue and delivery management of projects
+- Managed risk, assumptions, issues and technical dependencies

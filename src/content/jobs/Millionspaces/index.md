@@ -1,13 +1,13 @@
 ---
 date: '2017-11-01'
-title: 'Technical Consultant'
+title: 'Lead Technical Consultant'
 company: 'Millionspaces'
 location: 'Colombo, Sri Lanka'
-range: 'Nov 2017 - Mar 2019'
+range: 'Nov 2016 - To date'
 url: 'https://www.millionspaces.com/'
 ---
 
-- Held the responsibility for architectural design and development of the system
+- Hold responsibility for architectural design and development of entire system
 - Designed deployment architecture for end-to-end system
-- Responsible for task management, issue management and delivery management of the projects
-- Worked closely with designers and management team to design, develop, document, and manage the product features and business strategies
+- Responsible for task, issue and delivery management of the projects
+- Working closely with the management team and designers on design, development and delivering product features based on business strategies
