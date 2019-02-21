@@ -13,7 +13,7 @@ skills:
 
 I'm a software engineer who enjoys building highly reliable, robust and scalable backend systems.
 
-I graduated from [University of Moratuwa](https://www.mrt.ac.lk/web/), then I started my career as a C++ developer.
-I started [Millionspaces](https://www.millionspaces.com/) product from the scratch two years back. [Millionspaces](https://www.millionspaces.com/) is the place where I get to work on a variety of interesting technologies and improve my management and technical skillset on a daily basis.
+Having graduated from the [University of Moratuwa](https://www.mrt.ac.lk/web/), I started my career as a C++ developer.
+[Millionspaces](https://www.millionspaces.com/) is a product I developed from scratch and built it to become a platform of international standard for the Sri Lankan and Singaporean markets. [Millionspaces](https://www.millionspaces.com/) has provided me the opportunity to work on a variety of interesting technologies that added to my expertise of management and technical skillset.
 
-Here's a few things I'm experienced with:
+Here are a few of my skills:
