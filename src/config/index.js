@@ -55,7 +55,7 @@ module.exports = {
   ],
 
   twitterHandle: '@__rasela',
-  // googleAnalyticsID: 'UA-xxx66519-2',
+  googleAnalyticsID: 'UA-135385436-1',
 
   headerHeight: 100,
 
