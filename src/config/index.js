@@ -11,7 +11,7 @@ module.exports = {
 
   name: 'Rasela',
   location: 'Colombo, Sri Lanka',
-  email: 'rasela.tharaka@gmail.com',
+  email: 'admin@rasela.info',
   socialMedia: [
     {
       name: 'Github',
