@@ -13,7 +13,7 @@ tech:
   - React
 ---
 
-#### Millionspaces is a sharing economy platform for the short term hire of Space.
+#### Millionspaces is a sharing economy platform for the short term hire of Space
 
 ---
 
