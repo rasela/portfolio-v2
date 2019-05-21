@@ -8,8 +8,10 @@ tech:
   - Java
   - Spring
   - Hibernate
-  - Titanium
-show: 'true'
+  - Microservices
+  - Nginx
+  - AWS
+show: 'false'
 ---
 
 Assetminder is an award winning, cloud based fleet maintenance and workshop management system which is used to reduce administration, increase compliance, control costs and drive efficiencies throughout a transport fleet operation.

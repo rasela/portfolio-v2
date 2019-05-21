@@ -8,7 +8,8 @@ tech:
   - Java
   - Spring
   - Hibernate
-  - Titanium
+  - Nginx
+  - AWS
 show: 'true'
 ---
 
