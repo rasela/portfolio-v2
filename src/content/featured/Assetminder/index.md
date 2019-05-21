@@ -1,5 +1,5 @@
 ---
-date: '2017-11-01'
+date: '2016-10-01'
 title: 'Assetminder'
 cover: './assetminder.jpeg'
 # github: 'https://github.com/rasela/millionspaces'
