@@ -76,7 +76,7 @@ const Footer = () => (
         href="https://github.com/rasela"
         target="_blank"
         rel="nofollow noopener noreferrer">
-        Copyright &copy; 2018 Rasela
+        Copyright &copy; 2019 Rasela
       </GithubLink>
     </Copy>
     {/* <p>&copy; Copyright <a class="color" href="#">Rasela</a></p> */}
