@@ -3,7 +3,7 @@ date: '2017-11-01'
 title: 'Lead Technical Consultant'
 company: 'Millionspaces'
 location: 'Colombo, Sri Lanka'
-range: 'Nov 2016 - To date'
+range: 'Nov 2016 - Apr 2019'
 url: 'https://www.millionspaces.com/'
 ---
 
