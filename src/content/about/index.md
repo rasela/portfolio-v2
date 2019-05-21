@@ -2,13 +2,15 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - Java
-  - TypeScript
-  - Node.js
-  - Javascript
-  - C++
-  - AWS
-  - Firebase
+  - Java, Spring, Hibernate
+  - Node.js, NestJS, TypeScript
+  - AWS, Firebase
+  - Nginx, Tomcat
+  - Microservices, REST APIs
+  - Continuous Integration
+  - Solution Architecture
+  - Deployment Architecture
+  - Team Management
 ---
 
 I'm a software engineer who enjoys building highly reliable, robust and scalable backend systems.
