@@ -6,11 +6,11 @@ cover: './assetminder.jpeg'
 external: 'https://assetmindersolutions.co.uk/sample-screen-shots/'
 tech:
   - Microservices
-  - NodeJS
   - Java
+  - Spring Framework
+  - Hibernate
   - AWS
-  - Angular
-  - React
+  - Nginx
 ---
 
 #### Assetminder is a fleet maintenance management and workshop planning software
