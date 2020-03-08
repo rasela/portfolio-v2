@@ -4,14 +4,14 @@ module.exports = {
     'Backend software engineer based in Sri Lanka who specializes in developing robust backends',
   siteKeywords:
     'Rasela Tharaka, Rasela, Tharaka, rasela, software engineer, backend engineer, backend developer, javascript',
-  siteUrl: 'https://rasela.info',
+  siteUrl: 'https://rasela.net',
   siteLanguage: 'en_US',
 
   // googleVerification: 'xxxxxNfkNnJ1PKRNcg8qQiwpbx9Lk',
 
   name: 'Rasela',
   location: 'Colombo, Sri Lanka',
-  email: 'admin@rasela.info',
+  email: 'admin@rasela.net',
   socialMedia: [
     {
       name: 'Github',
